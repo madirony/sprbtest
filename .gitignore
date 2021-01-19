@@ -6,3 +6,4 @@ lib/
 .gradle
 .idea
 application-oauth.properties
+out
